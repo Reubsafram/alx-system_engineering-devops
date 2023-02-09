@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "Permission script for alx project"
+Permission to add sir

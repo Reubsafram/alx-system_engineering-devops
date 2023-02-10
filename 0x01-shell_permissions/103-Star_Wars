@@ -1,2 +1,2 @@
 #!/bin/bash
-telnet read.starwars2.co
+telnet towel.blinkenlights.nl
